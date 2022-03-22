@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'ckb-dashboard'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A420CE7CF931491783212C467327AFD1 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_14B0C095B96F424B81C90A8E65E2E098 }}
